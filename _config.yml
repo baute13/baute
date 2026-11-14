@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Luiz Felipe Rocha Baute"
 title_separator          : "-"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "lfrbaute" # Replace this with you Bluesky username
+  bluesky          : "lfrbaute"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  livros:
+    title: 'Livros'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Artigos acadêmicos'    
+  outros:
+    title: 'Outras publicações'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
